@@ -30,3 +30,29 @@
     transform: rotate(360deg);
   }
 }
+
+
+.post-header {
+  text-align: center;
+  font-family: 'Arvo', serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: bold;
+  color: #000;
+  padding: 3%;
+}
+
+.post-extra {
+  text-align: center;
+  font-family: Helvetica, Sans-Serif;
+  color: #999;
+  font-size: 12px;
+}
+
+.navbar-tab {
+  color: #57a2e4 !important;
+}
+
+.icon-clicked {
+  color: red;
+}
